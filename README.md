@@ -1,4 +1,4 @@
-### WES1DE 👋
+# WES1DE 👋
 
 - 🌱 I’m currently learning web-dev
 
